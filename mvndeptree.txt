@@ -1,0 +1,4 @@
+D:\SpringWS\spring-web-annotation> mvn dependency:build-classpath -Dmdep.pathSep
+arator="," -Dmdep.prefix= -Dmdep.fileSeparator="" -Dmdep.outputFile=classpath
+
+mvn dependency:tree -DoutputType=graphml -DoutputFile=dependency.graphml

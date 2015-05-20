@@ -1,0 +1,5 @@
+JP JD-->
+Core Java/J2EE,Spring/Hibernate/SQL/Webservices/JMS/Stored Procedures
+
+Cit JD-->
+Core Java MutiThreading/Concurrency,Spring/Hibernate/Webservices/JMS

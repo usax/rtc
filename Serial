@@ -1,0 +1,6 @@
+Serializer Design and implement a small framework which allows objects to be serialized to byte[] and deserialized back to objects. 
+The following types should be supported: 
+1. long 2. boolean 3. String 4. Java beans which have fields of type 1, 2, 3 or 4. 
+The solution should not be based on standard Java serialization.  
+Provide JUnit tests  
+What aspects would you consider to improve your implementation?
